@@ -1,0 +1,5 @@
+- Add support to Open ai key
+- Upgrade the html clearner function (it's just a draft for now)
+- Change the prompt
+- Add the possibility to save the json of class to a database
+- Reuse the class scraped while scraping the same website
