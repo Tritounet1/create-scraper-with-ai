@@ -1,0 +1,6 @@
+.env
+node_modules/ 
+html.html
+htmlclean.html
+scraper-classes.json
+extracted-data.json
